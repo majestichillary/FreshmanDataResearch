@@ -12,7 +12,9 @@ We utilized several classifiers like KNeighbors, ExtraTrees, and DecisionTree. T
 ## Results
 The DecisionTree classifier outperformed others in terms of accuracy. Detailed comparisons and performance metrics are included.
 ![IMDB Movies Summary During the Time](Graph1.png)
+Here we can see that action movies tend to gross the highest, with their purple bars reaching towards the 1 billion mark.
 ![3D Plot for IMDB Genres](Graph2.png)
+Movies higher on the z-axis have a higher gross, so we can see action movies tend to gross higher than other genres of movies.
 
 ## Visualizations
 Graphs illustrating the accuracy comparisons of each model provide insights into their predictive power.
