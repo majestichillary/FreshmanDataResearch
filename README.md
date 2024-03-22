@@ -11,6 +11,8 @@ We utilized several classifiers like KNeighbors, ExtraTrees, and DecisionTree. T
 
 ## Results
 The DecisionTree classifier outperformed others in terms of accuracy. Detailed comparisons and performance metrics are included.
+![IMDB Movies Summary During the Time](Graph1.png)
+![3D Plot for IMDB Genres](Graph2.png)
 
 ## Visualizations
 Graphs illustrating the accuracy comparisons of each model provide insights into their predictive power.
